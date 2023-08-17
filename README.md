@@ -15,8 +15,9 @@ mv archlinux-bootstrap.tar /mnt/d
 ```
 
 在windwos中导入 archlinux-bootstrap.tar 为 Arch WSL2发行版
+```
 wsl --import Arch .\  .\archlinux-bootstrap.tar
-
+```
 # 配置 pacman
 
 ```
