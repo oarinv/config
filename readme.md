@@ -3,9 +3,9 @@
 
 ## 下载最新版本helix
 ```
-wget https://github.com/helix-editor/helix/releases/download/24.03/helix-24.03-x86_64-linux.tar.xz
+wget https://github.com/helix-editor/helix/releases/download/25.01.1/helix-25.01.1-x86_64-linux.tar.xz
 tar -xf helix*
-rm -rf helix-24.03-x86_64-linux.tar.xz
+rm -rf helix-25.01.1-x86_64-linux.tar.xz
 cd helix*
 mkdir ~/.config
 mkdir ~/.config/helix
